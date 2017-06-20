@@ -1,0 +1,19 @@
+{
+  "name": "elevators",
+  "version": "0.0.0",
+  "description": "Elevator Coding Exercise",
+  "main": "index.js",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/intermediate/assignment.git"
+  },
+  
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "lodash": "^3.10.1",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1"
+  }
+}
